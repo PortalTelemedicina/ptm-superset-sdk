@@ -22,7 +22,6 @@
 
   "exclude": [
     "tests",
-    "dist",
     "lib",
     "node_modules"
   ]
