@@ -11,7 +11,8 @@
     "iframe",
     "dashboard",
     "chart",
-    "analytics"
+    "analytics",
+    "dist"
   ],
   "files": [
     "bundle",
